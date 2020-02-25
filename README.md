@@ -1,5 +1,5 @@
 # lastp_aai
-script for calculating pairwise amino acid identity (AAI) between protein files
+A simple Python script for calculating pairwise amino acid identity (AAI) between protein files *.faa)
 Written for Python 2.7
 Requires SeqIO from Biopython, defaultdict, and numpy
 
